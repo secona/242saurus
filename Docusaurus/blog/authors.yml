@@ -14,10 +14,49 @@ slorber:
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
   page:
-    # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-sebastien-lorber-articles'
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+Andrew4Coding:
+  name: Andrew
+  title: Sumbawaian
+  url: https://github.com/Andrew4Coding
+  image_url: https://github.com/Andrew4Coding.png
+  socials:
+    github: Andrew4Coding
+
+FrankyRay:
+  name: Franky
+  title: Bogorian
+  url: https://github.com/FrankyRay
+  image_url: https://github.com/FrankyRay.png
+  socials:
+    github: FrankyRay
+
+poemich:
+  name: Fadhlan
+  title: Tebetian
+  url: https://github.com/poemich
+  image_url: https://github.com/poemich.png
+  socials:
+    github: poemich
+
+RaAhYaMa:
+  name: Yasin
+  title: Kebagusanian
+  url: https://github.com/RaAhYaMa
+  image_url: https://github.com/RaAhYaMa.png
+  socials:
+    github: RaAhYaMa
+
+secona:
+  name: Vito
+  title: Pamulangian
+  url: https://github.com/secona
+  image_url: https://github.com/secona.png
+  socials:
+    github: secona
